@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1663490541 source:c:\users\nasser\desktop\embedded systems m.z\codes test\bank_task\edit.c
+	"bank_data.h"
+
+1663528837 c:\users\nasser\desktop\embedded systems m.z\codes test\bank_task\bank_data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663490153 source:c:\users\nasser\desktop\embedded systems m.z\codes test\bank_task\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bank_data.h"
+
+1663490423 source:c:\users\nasser\desktop\embedded systems m.z\codes test\bank_task\print.c
+	"bank_data.h"
+
+1663490423 source:c:\users\nasser\desktop\embedded systems m.z\codes test\bank_task\scan.c
+	"bank_data.h"
+
+1663490541 source:c:\users\nasser\desktop\embedded systems m.z\codes test\bank_task\transfer.c
+	"bank_data.h"
+
