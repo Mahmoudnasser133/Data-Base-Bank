@@ -1,2 +1,2 @@
 # Data-Base-Bank
-you can add new client , transfer money from one to other ,delet client and print information all of this operation by id.
+You can add a new client, transfer money from one to another, delete the client, and print information on all of these operations by id.
